@@ -1,4 +1,4 @@
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61l4HqLFdLL._AC_.jpg" alt="Yo-kai Watch!" align="center"></div>
+<div align="center"><img src="https://media.wired.com/photos/5955ab345992c54331ac15e4/master/w_2560%2Cc_limit/N3DS_YO-KAI_WATCH_illustration_01.jpg" alt="Yo-kai Watch!" align="center"></div>
 
 <h1 align="center">Yo-kai Watch API</h1>
 <h2 align="center">A fan-built API supplying information about your favorite yo-kai.</h3>
@@ -19,21 +19,16 @@
 
 - This API was created using node.js and Express
 
-- Working with the backend is new for me, and I chose to learn by diving in the deepend with this API. It has been an education to be sure. I look forward to continuing to explore this part of my tech stack.
 
 #### Improvements/Optimizations coming:
 
-- Documentation! I want this API to be easily navigated by all fans
-
-- Import data to MongoDB. As the data base grows, it only makes sense to store it in a cloud
+- Documentation! I want this API to be easily navigated
 
 
 ### :star: Try it Out
 
-- API is live at: [Heroku API page](https://yokai-api.herokuapp.com/)
+- API is live at: [Vercel API page](https://yokai-api.vercel.app/api/yokai/whisper)
 
-- Initial client side page is live at: [Client side page](https://yokaiapi.netlify.app/)
+### Check out the original author!
 
-### :blush: Thank you!
-
-Please check out the rest of my [Github](https://github.com/barbaralaw) and my Yo-kai Watch client side repo [here](https://github.com/barbaralaw/clientYokai).
+Please check out the original author's [Github](https://github.com/barbaralaw)!
